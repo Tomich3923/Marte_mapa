@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/Marteimaget_luminance.jpeg",
+  "resources": {
+    "originalImage": "Marteimaget_original.jpeg",
+    "croppedImage": "Marteimaget_cropped.jpeg",
+    "thumbnailImage": "Marteimaget_thumbnail.jpeg",
+    "geometryImage": "Marteimaget_geometry.jpeg",
+    "luminanceImage": "Marteimaget_luminance.jpeg"
+  },
+  "name": "Marteimaget",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1772337081524,
+  "updated": 1772337081524
+}

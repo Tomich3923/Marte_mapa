@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/Separador_Marte_luminance.png",
+  "resources": {
+    "originalImage": "Separador_Marte_original.png",
+    "croppedImage": "Separador_Marte_cropped.png",
+    "thumbnailImage": "Separador_Marte_thumbnail.png",
+    "geometryImage": "Separador_Marte_geometry.png",
+    "luminanceImage": "Separador_Marte_luminance.png"
+  },
+  "name": "Separador_Marte",
+  "type": "PLANAR",
+  "properties": {
+    "top": 467,
+    "left": 0,
+    "width": 499,
+    "height": 665,
+    "isRotated": true,
+    "originalWidth": 499,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1761719021730,
+  "updated": 1761721453773
+}

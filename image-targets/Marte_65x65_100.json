@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/Marte_65x65_100_luminance.jpeg",
+  "resources": {
+    "originalImage": "Marte_65x65_100_original.jpeg",
+    "croppedImage": "Marte_65x65_100_cropped.jpeg",
+    "thumbnailImage": "Marte_65x65_100_thumbnail.jpeg",
+    "geometryImage": "Marte_65x65_100_geometry.jpeg",
+    "luminanceImage": "Marte_65x65_100_luminance.jpeg"
+  },
+  "name": "Marte_65x65_100",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1761647994263,
+  "updated": 1761647994263
+}
